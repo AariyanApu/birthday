@@ -1,0 +1,21 @@
+# Work flow
+
+- [x] Create Add date and Name Front-End
+- [x] Formate date
+- [x] Calculate How may days age
+- [x] Upcoming Birthday Single
+- [x] Create Display Birthday
+- [x] remove date picker
+- [x] Add new date input
+- [x] Save Localhost all birthday
+- [x] Add Authentication
+- [x] Add Database
+- [x] show them as user
+- [x] Function Navbar button
+- [x] Remove unused code and add documentation
+- [x] Filter Only User Birthday
+- [x] Form Validation
+- [x] Login reminder in add birthday page
+- [x] Add A beautiful Hero section
+- [ ] Add PWA to project
+- [x] fix mobile device bug on birthday table page
